@@ -9,8 +9,8 @@ export const useRequestData = (url, estadoInicial) => {
     useEffect(()=>{
       axios.get(url)
       .then((res)=> {
-           console.log(res.data.results)
-           setrespApi(res.data.results)
+           console.log(res.data)
+           setrespApi(res?.data)
         })
          .catch((err)=> {
            console.log(err)
