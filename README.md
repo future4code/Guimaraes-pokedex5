@@ -5,7 +5,7 @@ Nome dos integrantes:
 -  Matheus Bezerra
 - Anderson Willian
 
-Link do Surge: https://hateful-punishment.surge.sh/
+Link do Surge: http://wise-unit.surge.sh/
 
 O que funciona:
 - Item 1
