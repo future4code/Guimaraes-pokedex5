@@ -1,11 +1,11 @@
 # POKEDEX
 
 Nome dos integrantes: 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
+-  Alex Bitencourt Pita
+-  Matheus Bezerra
+- Anderson Willian
 
-Link do Surge: www.link.com.br
+Link do Surge: http://wise-unit.surge.sh/
 
 O que funciona:
 - Item 1
